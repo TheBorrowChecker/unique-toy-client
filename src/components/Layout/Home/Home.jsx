@@ -2,7 +2,7 @@ import useTitle from "../../../Hooks/useTitle";
 import About from "./About";
 import Banner from "./Banner";
 import CategoryData from "./CategoryData";
-import Counter from "./Counter.Jsx";
+import Counter from "./Counter";
 import Gallery from "./Gallery";
 import Services from "./Services";
 
